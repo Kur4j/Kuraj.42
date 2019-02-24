@@ -29,12 +29,12 @@ print  ("Name: " + freshman.name + '\n' + "Age: " + str(freshman.age) + '\n' + "
 	+ str(freshman.course) + '\n' + "Number " + str(freshman.number))
 
 David = Person ("David", 19, 0)
-#David.set ("Давид", 19, 380957013328)
+#David.set ("Давид", 19, 380957013329)
 print ('\n' "Name: " + David.name + '\n' + "Age: " + str(David.age)  + '\n' + "Number: "
  + str(David.number))
 
 ivan = Person ("Vano", 18, 0)
-#ivan.set ("Иван", 18, 380502340416)
+#ivan.set ("Иван", 18, 380502340415)
 print ('\n' "Name: " + ivan.name + '\n' + "Age: " + str(ivan.age) + '\n' + "Number: " 
 	+ str(ivan.number))
 
