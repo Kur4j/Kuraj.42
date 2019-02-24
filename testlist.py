@@ -1,4 +1,4 @@
-n = input("Введите набор цифр: ")
+n = input("Enter random numbers: ")
 n = list(n)
 
 i = 0
@@ -13,7 +13,7 @@ while i <= length:
 fib1 = 1
 fib2 = 1
 
-n = input("Number element: ")
+n = input("Number elements: ")
 n = int(n)
 
 i = 0
